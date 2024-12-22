@@ -1,0 +1,18 @@
+{
+  "name": "express-crash-course",
+  "version": "1.0.0",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Vincent njeru",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21"
+  }
+}
